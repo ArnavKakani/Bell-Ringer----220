@@ -34,7 +34,7 @@ Seven stacks up, o-o-l, swell.
 Eight a fresh start, one more bit,
 Nine o-o-l-o, making it lit.
 
-[Chorus]
+[Chorus 2]
 O and l, coding like a pro,
 Turning base 10, break it down slow.
 Binary flow, digital on deck,
